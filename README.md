@@ -1,3 +1,5 @@
+<img src = "https://img.shields.io/badge/Author-Pranjal_Bhardwaj-green"> <img src = "https://img.shields.io/badge/Language-Swift-orange">
+
 # AR-Pokemon
 
 An AR Pokemon Card displayer that displays Pokemons by detecting them and rendering them in 3D.
